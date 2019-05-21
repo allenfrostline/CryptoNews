@@ -15,33 +15,33 @@ This is an exploratory research trying to implement a simple yet robust sentimen
 .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;">
   <tr>
-    <td class="tg-fymr">Statistics</td>
-    <td class="tg-fymr">Buy &amp; Hold</td>
-    <td class="tg-fymr">Momentum</td>
-    <td class="tg-fymr">Mom. Rev.</td>
-    <td class="tg-fymr">Strategy</td>
+    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Statistics</td>
+    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Buy &amp; Hold</td>
+    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Momentum</td>
+    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Mom. Rev.</td>
+    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Strategy</td>
   </tr>
   <tr>
-    <td class="tg-buh4">Win %</td>
-    <td class="tg-buh4">0.524051</td>
-    <td class="tg-buh4">0.437975</td>
-    <td class="tg-buh4">0.562025</td>
-    <td class="tg-buh4">0.536709</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">Win %</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.524051</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.437975</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.562025</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.536709</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sharpe</td>
-    <td class="tg-0lax">-0.975205</td>
-    <td class="tg-0lax">-0.605331</td>
-    <td class="tg-0lax">0.605331</td>
-    <td class="tg-0lax">2.677082</td>
+    <td style="text-align:left;vertical-align:top">Sharpe</td>
+    <td style="text-align:left;vertical-align:top">-0.975205</td>
+    <td style="text-align:left;vertical-align:top">-0.605331</td>
+    <td style="text-align:left;vertical-align:top">0.605331</td>
+    <td style="text-align:left;vertical-align:top">2.677082</td>
   </tr>
   <tr>
-    <td class="tg-buh4">MDD</td>
-    <td class="tg-buh4">0.826419</td>
-    <td class="tg-buh4">0.970956</td>
-    <td class="tg-buh4">0.947963</td>
-    <td class="tg-buh4">0.206906</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">MDD</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.826419</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.970956</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.947963</td>
+    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.206906</td>
   </tr>
 </table>
