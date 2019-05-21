@@ -4,8 +4,8 @@ This is an exploratory research trying to implement a simple yet robust sentimen
 
 <p align='center'><img src="/misc/wordcloud.png" width=90%/></p>
 
-<p align='center'><b>Fig. 1:</b> Cloud of Positive/Negative Words</p>
+<p align='center' style='padding-top:0'><b>Fig. 1:</b> Cloud of Positive/Negative Words</p>
 
 <img src="/misc/performance.png" width=100%/>
 
-<p align='center'><b>Fig. 2:</b> Backtest Performance</p>
+<p align='center' style='padding-top:0'><b>Fig. 2:</b> Backtest Performance</p>
