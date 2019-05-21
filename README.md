@@ -7,6 +7,7 @@ This is an exploratory research trying to implement a simple yet robust sentimen
 <p align='center' ><img src="/misc/performance.png" width=100%/></p>
 <p align='center' ><b>Fig. 2:</b> Backtest Performance (also: see table below)</p>
 
+<center>
 <table style="border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;">
   <tr>
     <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Statistics</td>
@@ -37,3 +38,4 @@ This is an exploratory research trying to implement a simple yet robust sentimen
     <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.206906</td>
   </tr>
 </table>
+</center>
