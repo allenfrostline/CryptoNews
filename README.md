@@ -7,35 +7,8 @@ This is an exploratory research trying to implement a simple yet robust sentimen
 <p align='center' ><img src="/misc/performance.png" width=100%/></p>
 <p align='center' ><b>Fig. 2:</b> Backtest Performance (also: see table below)</p>
 
-<center>
-<table style="border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;">
-  <tr>
-    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Statistics</td>
-    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Buy &amp; Hold</td>
-    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Momentum</td>
-    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Mom. Rev.</td>
-    <td style="font-weight:bold;border-color:inherit;text-align:left;vertical-align:top">Strategy</td>
-  </tr>
-  <tr>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">Win %</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.524051</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.437975</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.562025</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.536709</td>
-  </tr>
-  <tr>
-    <td style="text-align:left;vertical-align:top">Sharpe</td>
-    <td style="text-align:left;vertical-align:top">-0.975205</td>
-    <td style="text-align:left;vertical-align:top">-0.605331</td>
-    <td style="text-align:left;vertical-align:top">0.605331</td>
-    <td style="text-align:left;vertical-align:top">2.677082</td>
-  </tr>
-  <tr>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">MDD</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.826419</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.970956</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.947963</td>
-    <td style="background-color:#f9f9f9;text-align:left;vertical-align:top">0.206906</td>
-  </tr>
-</table>
-</center>
+| Statistics | Buy & Hold | Momentum  | Mom. Rev. | Strategy |  
+| :-:        | :-:        | :-:       | :-:       | :-:      |  
+| Win %      | 0.524051   | 0.437975  | 0.562025  | 0.536709 |  
+| Sharpe     | -0.975205  | -0.605331 | 0.605331  | 2.677082 |  
+| MDD        | 0.826419   | 0.970956  | 0.947963  | 0.206906 |  
