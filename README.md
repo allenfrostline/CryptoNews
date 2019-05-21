@@ -7,8 +7,12 @@ This is an exploratory research trying to implement a simple yet robust sentimen
 <p align='center' ><img src="/misc/performance.png" width=100%/></p>
 <p align='center' ><b>Fig. 2:</b> Backtest Performance (also: see table below)</p>
 
+<center>
+
 | Statistics | Buy & Hold | Momentum  | Mom. Rev. | Strategy |  
 | :-:        | :-:        | :-:       | :-:       | :-:      |  
 | Win %      | 0.524051   | 0.437975  | 0.562025  | 0.536709 |  
 | Sharpe     | -0.975205  | -0.605331 | 0.605331  | 2.677082 |  
 | MDD        | 0.826419   | 0.970956  | 0.947963  | 0.206906 |  
+
+</center>
