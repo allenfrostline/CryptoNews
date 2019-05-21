@@ -9,6 +9,7 @@ This is an exploratory research trying to implement a simple yet robust sentimen
 <p align='center' ><img src="/misc/performance.png" width=100%/></p>
 
 **Table 1**: Backtest Performance
+
 | Statistics | Buy & Hold | Momentum  | Mom. Rev. | Strategy |  
 | :-:        | :-:        | :-:       | :-:       | :-:      |  
 | Win %      | 0.524051   | 0.437975  | 0.562025  | 0.536709 |  
